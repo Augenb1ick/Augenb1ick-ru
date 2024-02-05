@@ -19,7 +19,7 @@
 
 #### Мои проекты
 - [EatPoint](https://github.com/finding-and-booking-tables-restaurants/eatpoint-frontend)
-- [TroveKeeper](https://github.com/Augenb1ick/TroveKeeper/tree/develop)
+- [TroveKeeper](https://github.com/Augenb1ick/TroveKeeper)
 - [PAWsistant](https://github.com/Augenb1ick/Chatty-AI)
 - [Movies explorer](https://github.com/Augenb1ick/movies-explorer)
 - [Mesto](https://github.com/Augenb1ick/react-mesto-api-full-gha)
